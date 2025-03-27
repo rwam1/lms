@@ -3,7 +3,7 @@ import React from 'react'
 function Button2() {
   return (
     <div>
-        <button>Bhavin</button>
+        <button style={{color:'blueviolet'}}>Bhavin</button>
     </div>
   )
 }
