@@ -3,7 +3,8 @@ import React from 'react'
 const Button3 = () => {
   return (
     <div>
-        <button> new added</button>
+        <button style={{color:"red"}}> new added</button>
+       
     </div>
   )
 }
